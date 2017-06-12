@@ -1,0 +1,6 @@
+TypeError: Cannot read property 'RefreshCancerSiteDetails' of undefined
+&nbsp;/hippoic/OncoDesigner/CancerSite/AddRegimenCancerSite:248:54 Object.success()
+&nbsp;/hippoic/Scripts/kendo/2016.3.1118/jquery.min.js?rel=:2:27449 i()
+&nbsp;/hippoic/Scripts/kendo/2016.3.1118/jquery.min.js?rel=:2:28213 Object.fireWith [as resolveWith]()
+&nbsp;/hippoic/Scripts/kendo/2016.3.1118/jquery.min.js?rel=:4:22831 y()
+&nbsp;/hippoic/Scripts/kendo/2016.3.1118/jquery.min.js?rel=:4:26989 XMLHttpRequest.c()
